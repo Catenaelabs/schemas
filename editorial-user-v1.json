@@ -1,7 +1,7 @@
 {
   "$metadata": {
       "uris": {
-          "jsonLdContext": "https://raw.githubusercontent.com/Catenaelabs/schemas/main/editorial-user.jsonld"
+          "jsonLdContext": "https://raw.githubusercontent.com/Catenaelabs/schemas/main/editorial-user-v1.jsonld"
       },
       "version": "1.0",
       "type": "EditorialUserCredential"
