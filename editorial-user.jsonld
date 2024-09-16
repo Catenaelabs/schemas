@@ -1,23 +1,23 @@
 {
   "@context": [
-    {
-      "@protected": true,
-      "@version": 1.1,
-      "id": "@id",
-      "type": "@type",
-      "EditorialUser": {
-        "@context": {
-          "@propagate": true,
+      {
           "@protected": true,
-          "polygon-vocab": "urn:uuid:7b2d0790-d5b2-4bcc-8f7d-ae91f25cf854#",
-          "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "permissionLevel": {
-            "@id": "polygon-vocab:permissionLevel",
-            "@type": "xsd:double"
+          "@version": 1.1,
+          "id": "@id",
+          "type": "@type",
+          "EditorialUser": {
+              "@context": {
+                  "@propagate": true,
+                  "@protected": true,
+                  "polygon-vocab": "urn:uuid:49bbd05f-53fd-4ca3-9bcf-acd9744f6688#",
+                  "xsd": "http://www.w3.org/2001/XMLSchema#",
+                  "permissionLevel": {
+                      "@id": "polygon-vocab:permissionLevel",
+                      "@type": "xsd:integer"
+                  }
+              },
+              "@id": "urn:uuid:92c10888-0bb8-4be0-abf1-905b733fecd3"
           }
-        },
-        "@id": "urn:uuid:830c12a4-1ad2-4907-a90c-17b16ed42289"
       }
-    }
   ]
 }
