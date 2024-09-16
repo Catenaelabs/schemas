@@ -1,14 +1,14 @@
 {
   "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/Catenaelabs/schemas/main/editorial-user.jsonld"
+          "jsonLdContext": "https://raw.githubusercontent.com/Catenaelabs/schemas/main/editorial-user.jsonld"
       },
       "version": "1.0",
-      "type": "EditorialUser"
+      "type": "EditorialUserCredential"
   },
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "Editorial User Credential",
-  "title": "Editorial User",
+  "title": "Editorial User Credential",
   "properties": {
       "credentialSubject": {
           "description": "Stores the data of the credential",
